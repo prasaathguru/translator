@@ -11,7 +11,8 @@ def translator(input,selected_option):
     return r
 
 def main():
-    st.header("Give translating sentence")
+    st.header("GURU PRASAATH APP")
+    st.subheader("Give translating sentence")
     input2 = st.text_input("Give translating sentence")
     selected_option = st.selectbox('Choose an option:', ['tamil','english','hindi','telugu','kannada','french','italian','spanish','arabic','tamil'])
     output1 = translator(input2,selected_option)
