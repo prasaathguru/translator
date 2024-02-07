@@ -2,7 +2,7 @@
 
 A Simple Python Mini Project Named ' Language-Translator '
 
-[https://g-ai-translator.streamlit.app/](url)
+https://g-ai-translator.streamlit.app/
 
 The above mentioned is the Link for translator Project..
 
