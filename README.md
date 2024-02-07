@@ -8,5 +8,7 @@ The above mentioned is the Link for translator Project..
 
 Here you can translate the Input sentence to any selected Language..
 
+Here i use the Simple framework library named **Streamlit** in Python..
+
 
 
