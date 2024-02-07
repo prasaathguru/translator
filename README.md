@@ -1,3 +1,5 @@
-# translator
+# Language-Translator
 
-forthebadge
+A Simple Python Mini Project Named ' Language-Translator '
+
+
